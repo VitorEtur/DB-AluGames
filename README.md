@@ -1,2 +1,3 @@
 # DB-AluGames
-ADS_PDP_2021 (Fórum Temático - Atividade da Semana 26/08/2021)
+Banco de dados criado para a aplicação AluGames (Locadora de Jogos)
+Usando phpMyAdmin
